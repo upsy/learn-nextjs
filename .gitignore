@@ -36,5 +36,5 @@ yarn-error.log*
 next-env.d.ts
 
 #work local proxy stuff
-.npmrc
-.nvmrc
+# .npmrc
+# .nvmrc
